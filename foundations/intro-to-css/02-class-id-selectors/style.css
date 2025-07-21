@@ -1,0 +1,20 @@
+.odd-elements {
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+  background-color: hsl(350, 100%, 88%);
+}
+
+.odd-elements.large-text {
+  font-size: 24px;
+}
+
+#number-two {
+  color: hsl(240, 100%, 50%);
+  font-size: 36px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+#number-four {
+  font-size: 24px;
+  font-weight: bold;
+  background-color: hsl(104, 100%, 72%);
+}
